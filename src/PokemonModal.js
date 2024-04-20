@@ -34,7 +34,7 @@ const PokemonModal = ({ pokemon, onClose }) => {
         <p>#{pokemon.id}</p>
         <h2>{pokemon.koreanName ? pokemon.koreanName : pokemon.name}</h2>
         <img
-          src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/${pokemon.imageNumber}.gif`} 
+          src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/${pokemon.imageNumber}.png`} 
           alt={pokemon.name}
           className="pokemon-image"
         />
