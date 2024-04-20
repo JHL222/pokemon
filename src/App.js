@@ -126,7 +126,7 @@ function App() {
       <nav className="navbar">
         <ul>
           <h1>Pokemon Dictionary</h1>
-          <li><a href="/" onClick={toggleHomeMode}>Home</a></li>
+          <li><a href="/pokemon" onClick={toggleHomeMode}>Home</a></li>
           <li><a onClick={toggleShinyMode}>{shinyMode ? 'Shiny' : 'Normal'}</a></li>
           <li>
             <input
