@@ -1,0 +1,46 @@
+.modal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    z-index: 9999;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    width: 30%;
+    position: relative;
+    text-align: center;
+}
+
+.close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.pokemon-image {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.stat-bar {
+    background-color: #f0f0f0;
+    height: 20px;
+    margin-bottom: 5px;
+  }
+  
+  .stat-bar-fill {
+    height: 100%;
+    background-color: #4caf50;
+  }
