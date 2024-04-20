@@ -29,9 +29,10 @@
 
 # 3. 화면구성
 
-|---|---|
-|<img width="500" alt="스크린샷 2024-04-20 20 30 11" src="https://github.com/JHL222/pokemon/assets/160108023/0988454e-c1a9-4018-b96c-231767312410">|<img width="500" alt="스크린샷 2024-04-20 20 30 17" src="https://github.com/JHL222/pokemon/assets/160108023/fd978005-658d-459a-a604-1d967f65587c">|
-|메인페이지|상세정보모달|
+
+<img width="500" height="500" alt="스크린샷 2024-04-20 20 30 11" src="https://github.com/JHL222/pokemon/assets/160108023/0988454e-c1a9-4018-b96c-231767312410">
+<img width="500" height="500" alt="스크린샷 2024-04-20 20 30 17" src="https://github.com/JHL222/pokemon/assets/160108023/fd978005-658d-459a-a604-1d967f65587c">
+
 
 
 
